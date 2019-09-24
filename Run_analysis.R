@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@sarakgall 
-Learn Git and GitHub without any code!
-    Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-3
-9683bgentry/coursera-getting-and-cleaning-data-project
-Code Issues 0 Pull requests 1 Actions Projects 0 Wiki Security Insights
-coursera-getting-and-cleaning-data-project/run_analysis.R
-@bgentry bgentry add course project analysis script
-12fc6cf on Mar 22, 2015
-50 lines (39 sloc)  1.98 KB
-
 library(reshape2)
 
 filename <- "getdata_dataset.zip"
